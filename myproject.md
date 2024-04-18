@@ -24,7 +24,7 @@ Digital banking side of things Discover operates just like any other bank would 
 
 ### **Achievement**
 I'm actually impressed by how Discover has built and sustained for almost 39 years in the credit cards and payment space. Discover had to compete against the biggest financial institutions in the US who also had a few decades head start. Think of how massive an undertaking in terms of starting a brand from scratch, but also having to set up an independent payment network versus three competitors (VISA, MASTER and AMEX) who already dominated the globe not only Discover survived, they have grown a lot as a business since the early days. Discover didn't really work out for Sears but as an independent company it is now one of the biggest digital banks in the united states and the third most widely accepted credit card brand.
-> Proud to say my first credit card is Discover IT and I own shares in Discover. That’s how much I trust and  value the company.
+**Proud to say my first credit card is Discover IT and I own shares in Discover. That’s how much I trust and  value the company.**
 > Doing the Right Thing • Innovation • Simplicity • Collaboration • Openness • Volunteerism • Enthusiasm • Respect
 ### Future of discover
 
