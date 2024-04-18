@@ -22,7 +22,8 @@ I'm actually impressed by how Discover has built and sustained for almost 39 yea
 Proud to say my first credit card is Discover IT and I own shares in Discover. That’s how much I trust and  value the company.
 > Doing the Right Thing • Innovation • Simplicity • Collaboration • Openness • Volunteerism • Enthusiasm • Respect
 ### Future of discover
-let's briefly discuss what's currently
+
+- let's briefly discuss what's currently
 facing discover obviously
 2020 has thrown a whole host of problems
 at the company
