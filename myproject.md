@@ -101,9 +101,9 @@ Also worked on an android project when in school
 ```
 ---
 ## Managerial Questions
-### Tell me about a time you failed at work and what did you learn from it?
+### Tell me about a time you FAILED at work and what did you learn from it?
 
-> Tell me about a time you committed a mistake?
+> Tell me about a time you committed a MISTAKE?
 > Have you ever failed at something? What did you learn from it?
 - This was a while ago. One time I was assigned a task of implementing a new feature into one of our legacy applications and we used git as our source control. So as I was working on this feature, I was continuously pushing changes to our master branch which isn't good practice because you always want to keep your master branch deployable as well as in sync with what's in production. Also if we deployed this app with this feature being partially done it would break the application but this was an app that barely ever got updated. The last update was like 3-4 years ago. So I figured I'd be all right! but of course we had an emergency bug fix that had to be made and it was like we actually can't deploy it because the app is going to break. Luckily with GIT source control you are able to go back and cherry pick. we were able to add that change to where I started working on the feature. With this experience I learned that in future if i was going to make any changes, first create a branch off of master and deploy to that branch and then when you're finally done with the feature then merge the changes back into master. Here in the payments where I lead, this is the process my team has to follow. We either create a Branch or a fork off of develop branch, work on that feature commit and create a pull request for his/her local branch, then I have to review and approve which then will be merged to develop branch. Once verified, we move to QA where it requires two approvals for the pull request and 80% coverage from Sonar is mandatory.
 ---
