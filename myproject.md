@@ -167,7 +167,7 @@ healthy work-life balance. I love my job as a software engineer, and I used to s
 ---
 ### How would you deal with a MEMBER of your team who DISAGREED with the work you carried out as a software engineer? 
 
-- I have a lot of experience in programming and also the way I take things forward with my work, and I feel the work I produce is to a very high standard. Having said that, I am also aware that when I do work as part of a team, it is important to listen to other people as they may have valid contributions to make. On that basis, I would certainly be open to listening to why they felt the work I was carrying out could be altered or improved. At the end of the day, we are all working for the same organization, and if it means changing the way I do things for the benefit of the team goal, I will certainly do that.
+- I have a lot of experience in programming and also the way I take things forward with my work, and I feel the work I produce is to a very high standard. Having said that, I am also aware that when I do work as part of a team, it is important to listen to other people as they may have valid contributions to make. In my day-to-day routine, I push code and create Pull Requests. My code gets reviewed, commented and will be given feedback. There will be times of disagreement. On that basis, I would certainly be open to listening to why they felt the work I was carrying out could be altered or improved. At the end of the day, we are all working for the same organization, and if it means changing the way I do things for the benefit of the team goal, I will certainly do that.
 ---
 ### Time when you went above and BEYOND YOUR JOB responsibilities?
 
