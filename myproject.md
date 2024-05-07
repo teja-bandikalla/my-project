@@ -114,10 +114,6 @@ I am working for. If you hire me as your software engineer, I will not only work
 consistent positive results, but I will also use my developing, researching, analytical
 and technical skills to help the company continually thrive and develop.
 ---
-### How would you deal with a MEMBER of your team who DISAGREED with the work you carried out as a software engineer? 
-
-- I have a lot of experience in programming and also the way I take things forward with my work, and I feel the work I produce is to a very high standard. Having said that, I am also aware that when I do work as part of a team, it is important to listen to other people as they may have valid contributions to make. On that basis, I would certainly be open to listening to why they felt the work I was carrying out could be altered or improved. At the end of the day, we are all working for the same organization, and if it means changing the way I do things for the benefit of the team goal, I will certainly do that.
----
 ### Tell me a time when you worked AS PART OF TEAM/ LEADERSHIP to solve a complex task?
 
 - I was the lead of the Digital Payments project 
@@ -168,6 +164,10 @@ healthy work-life balance. I love my job as a software engineer, and I used to s
 > Time when you came up with a novel solution.
 
 - I had a conflict with my product owner. Around the same time we had a team reshuffle where our existing manager got promoted to a Sr IT manager and a lot of team members moved under him due to the Statement of Purpose contract. Initially the payment project was supposed to be worked on by 3 existing Senior Developers including me, The other developer has left Nordstrom and it was my responsibility to take up the design and implementation. Revamp the payment processing to the entirety and connect to Stripe network instead of the old Bill trust network with which the contractual agreement will be terminated by end of December 2022. I came up with a design to have the payment module as a separate project rather than changing every time the financial vendor has to be switched. Our product owner did not agree because of the tight deadline, less resources we’re having. I understood his perspective and explained to him the pros of my approach. yet He insisted me to go with else condition on the overall project. I scheduled an immediate meeting with my new manager and the leadership about my approach and design. I provided a roadmap on how this can be achieved and how much it is beneficial in the long term. We got instant funding for this and 3 new developers got hired depending on the requirement of what I asked for. We worked hard and overtime to deliver it. It was a grand success and I got huge appreciation for it in the form of an award. We always had issues and the enrollments were getting rejected because of payment issues. With this architecture and new design, we haven’t had a single issue so far due to payments with which I earned my product owners trust. Any new requirement comes in, he now looks strictly for me
+---
+### How would you deal with a MEMBER of your team who DISAGREED with the work you carried out as a software engineer? 
+
+- I have a lot of experience in programming and also the way I take things forward with my work, and I feel the work I produce is to a very high standard. Having said that, I am also aware that when I do work as part of a team, it is important to listen to other people as they may have valid contributions to make. On that basis, I would certainly be open to listening to why they felt the work I was carrying out could be altered or improved. At the end of the day, we are all working for the same organization, and if it means changing the way I do things for the benefit of the team goal, I will certainly do that.
 ---
 ### Time when you went above and BEYOND YOUR JOB responsibilities?
 
