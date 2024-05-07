@@ -118,7 +118,7 @@ and technical skills to help the company continually thrive and develop.
 
 - I have a lot of experience in programming and also the way I take things forward with my work, and I feel the work I produce is to a very high standard. Having said that, I am also aware that when I do work as part of a team, it is important to listen to other people as they may have valid contributions to make. On that basis, I would certainly be open to listening to why they felt the work I was carrying out could be altered or improved. At the end of the day, we are all working for the same organization, and if it means changing the way I do things for the benefit of the team goal, I will certainly do that.
 ---
-### Tell me a time when you worked AS PART OF TEAM to solve a complex task?
+### Tell me a time when you worked AS PART OF TEAM/ LEADERSHIP to solve a complex task?
 
 - I was the lead of the Digital Payments project 
 application for NORDSTROM. Towards the end of the project, we encountered a number
@@ -134,7 +134,7 @@ for rectifying and testing each issue. Once we had a PLAN IN PLACE, we could the
 tasks to team members based on their area of technical competence the following morning.
 By creating a plan of action, and by working closely together as a team, we were able to
 tap into the combined team expertise and competence to not only provide a time-sensitive solution
-to the problem, but to also implement a support mechanism for payments which was never thought of during the initial list deliverables.
+to the problem, but to also implement a support mechanism for payments which was never thought of during the initial list of deliverables. Prioritizing and organizing really helped. 
 ---
 ### How would you HANDLE STRESS with your work?
 
