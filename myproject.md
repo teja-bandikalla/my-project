@@ -196,7 +196,7 @@ Our data center lately had too many issues. Be it connectivity or servers being 
 ---
 ### POC
 
-- We always receive complaints from the testing team that something is down, something is not working as expected. When I had time during last November, I wrote a Selenium script with customized modules for WA which still had to be scaled to other tenants. This automated the submission process of an application which I run every morning ever since to make sure all the apis and pages are working as expected. This did cut down testing time a lot for that state. 
+- We always receive complaints from the testing team that something is down, something is not working as expected. When I had time during last November, I wrote a Selenium script with customized modules for our API. This automated the submission process of an application which I run every morning ever since to make sure all the apis and pages are working as expected. This did cut down testing time a lot. 
 ### Kubernetes vs Docker Swarm
 
 - Docker runs on a single node, whereas Kubernetes is designed to run across a cluster. 
