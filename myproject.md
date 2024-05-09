@@ -192,7 +192,7 @@ Our data center lately had too many issues. Be it connectivity or servers being 
 ---
 ### CUT CORNERS to meet deadline
 
-- Every year we get regulations about new infections or diseases and things we will have to incorporate accordingly in our application. This year we received regulations as usual. I looked through the list and as everyone is aware, implemented COVID regulation as soon as possible within the next few days. Like expected this became the highest priority from business point of view and has more weight than any other regulation according to business later on and we delivered it in time. Insurance policy towards COVID patients is different from the rest. If I had worked on picking up the stories or tasks for the other regulations and implemented it, that would have been very late in reacting to COVID.
+- Every year we get regulations about new infections or diseases and things we will have to incorporate accordingly in our application. This year we received regulations as usual. I looked through the list and as everyone is aware, implemented COVID regulation as soon as possible within the next few days. Like expected this became the highest priority from business point of view and has more weight than any other regulation according to business later on and we delivered it in time. If I had worked on picking up the stories or tasks for the other regulations and implemented it, that would have been very late in reacting to COVID.
 ---
 ### POC
 
