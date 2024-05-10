@@ -209,3 +209,5 @@ What has frustrated you about software engineers you have employed in the past?
 Docker engine the runtime allows you to build and run containers. In order to build a container you need docker file which has to be configured with all network and OS specification to run the image. Docker image runs on docker engineer.
 To scale run and monitor the health of the application we use kubernetes basically for the orchestration purpose.
 
+### QUESTIONS TO ASK 
+- I want to know the Bussiness, Team structure - As you said we're having Spring Data JPA, are we having anyone from DB side on our Team, or should we communicate with an external DB team to have data. Tester
