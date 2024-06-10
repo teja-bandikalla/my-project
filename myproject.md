@@ -211,3 +211,5 @@ To scale run and monitor the health of the application we use kubernetes basical
 
 ### QUESTIONS TO ASK 
 - I want to know the Bussiness, Team structure - As you said we're having Spring Data JPA, are we having anyone from DB side on our Team, or should we communicate with an external DB team to have data. Tester
+
+###
